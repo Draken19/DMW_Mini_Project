@@ -5,9 +5,13 @@ Name : Ketan Deore. A-31
 Problem Statement : Build a Model to predict an inbetween range of score for the first innings any IPL match
 
 Group Members:
+
 A-31  Ketan Deore. 
+
 A-30  Mayur Chaudhari. 
+
 A-20  Varun Ahire.
+
 A-52  Kunal Kharalkar.
 
 Dataset : 
