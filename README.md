@@ -6,13 +6,13 @@ Problem Statement : Build a Model to predict an inbetween range of score for the
 
 Group Members:
 
-A-31  Ketan Deore. 
+A-31    Ketan Deore. 
 
-A-30  Mayur Chaudhari. 
+A-30    Mayur Chaudhari. 
 
-A-20  Varun Ahire.
+A-20    Varun Ahire.
 
-A-52  Kunal Kharalkar.
+A-52    Kunal Kharalkar.
 
 Dataset : 
 The dataset 'IPL Data Set.csv' consists of ball-to-ball informations about every match of IPL from Season 1 to 10 ie: (2008 to 2017)
